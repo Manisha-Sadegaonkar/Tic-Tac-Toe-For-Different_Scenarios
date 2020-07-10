@@ -1,12 +1,20 @@
-////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Author       			: Manisha Sadegaonkar
-Date          			: 07/10/2020 03:31:55
+
+Date          		: 07/10/2020 03:31:55
+
 Project      			: Tic-Tac-Toe using python for,
+
                     i.	Base specification(2 Players) and Added BOT(1 player and Computer)
+                    
                     ii.	For BOTs as player 1 and player 2
-                     iii.	Using Min-Max Algorithm and Alpha Beta Pruning between 1 player and BOT
+                    
+                    iii.	Using Min-Max Algorithm and Alpha Beta Pruning between 1 player and BOT
+                     
 Used Technology   : Python IDLE, Python3
-//////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 Tic-Tac-Toe Using Python for different scenarios provided below are the project steps and description 
